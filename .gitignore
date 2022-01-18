@@ -1,0 +1,17 @@
+
+# Dependency directories
+node_modules
+
+# nuxt.js build output
+.nuxt
+
+# Nuxt generate
+dist
+
+# Custom server generate
+.dist
+package-lock.json
+
+.output
+
+*.log
